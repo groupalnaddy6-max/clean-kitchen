@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://clean-kitchen.vercel.app/sitemap.xml
